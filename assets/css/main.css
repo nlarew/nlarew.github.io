@@ -2549,7 +2549,6 @@ select:focus {
     float: left;
     margin-left: 0;
     margin-right: 0;
-    background-color: aqua;
 }
 
 .page .page__inner-wrap .page__content,
