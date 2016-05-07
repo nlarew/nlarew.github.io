@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "My Blog"
+title                    : "Vox Datum"
 title_separator          : "-"
 name                     : "Nick Larew"
-description              : "An amazing website."
+description              : "In which I document cool things I learn."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
@@ -21,7 +21,7 @@ comments:
   provider               : # false (default), "disqus", "facebook", "google-plus", custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
-  facebook:
+  facebook: 
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
@@ -35,7 +35,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -61,30 +61,30 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Nick Larew"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I like data."
+  location         : 
+  email            : nlarew@gmail.com
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : nlarew
   foursquare       :
-  github           :
-  google_plus      :
+  github           : nlarew
+  google_plus      : 
   keybase          :
-  instagram        :
+  instagram        : nlarew
   lastfm           :
-  linkedin         :
+  linkedin         : www.linkedin.com/in/nlarew
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : nlarew
   vine             :
   weibo            :
   xing             :
